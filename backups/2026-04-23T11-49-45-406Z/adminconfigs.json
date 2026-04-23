@@ -1,0 +1,11 @@
+[
+  {
+    "_id": "69cb4023992cf058d08ae329",
+    "workerVisitingFee": 60,
+    "customerPlatformFee": 20,
+    "baseCommissionRate": 10,
+    "createdAt": "2026-03-31T03:31:47.377Z",
+    "updatedAt": "2026-03-31T03:33:27.943Z",
+    "__v": 0
+  }
+]

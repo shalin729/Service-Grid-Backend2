@@ -1,0 +1,112 @@
+[
+  {
+    "_id": "69cc0263398fe00ab565fa5f",
+    "user": "69cc0263398fe00ab565f917",
+    "subject": "Issue #1: Login Issue",
+    "message": "Hello support, I am facing a problem with my account. Please help me with issue number 1.",
+    "status": "in-progress",
+    "adminReply": "",
+    "createdAt": "2026-03-31T17:20:35.384Z",
+    "updatedAt": "2026-03-31T17:20:35.384Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cc0263398fe00ab565fa61",
+    "user": "69cc0263398fe00ab565f8fb",
+    "subject": "Issue #2: Worker Dispute",
+    "message": "Hello support, I am facing a problem with my account. Please help me with issue number 2.",
+    "status": "resolved",
+    "adminReply": "We have fixed the issue for you. Thank you for your patience.",
+    "createdAt": "2026-03-31T17:20:35.385Z",
+    "updatedAt": "2026-03-31T17:20:35.385Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cc0263398fe00ab565fa63",
+    "user": "69cc0263398fe00ab565f91b",
+    "subject": "Issue #3: App Crash",
+    "message": "Hello support, I am facing a problem with my account. Please help me with issue number 3.",
+    "status": "open",
+    "adminReply": "",
+    "createdAt": "2026-03-31T17:20:35.386Z",
+    "updatedAt": "2026-03-31T17:20:35.386Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cc0263398fe00ab565fa65",
+    "user": "69cc0263398fe00ab565f8ff",
+    "subject": "Issue #4: Payment Error",
+    "message": "Hello support, I am facing a problem with my account. Please help me with issue number 4.",
+    "status": "in-progress",
+    "adminReply": "",
+    "createdAt": "2026-03-31T17:20:35.387Z",
+    "updatedAt": "2026-03-31T17:20:35.387Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cc0263398fe00ab565fa67",
+    "user": "69cc0263398fe00ab565f91f",
+    "subject": "Issue #5: Login Issue",
+    "message": "Hello support, I am facing a problem with my account. Please help me with issue number 5.",
+    "status": "resolved",
+    "adminReply": "We have fixed the issue for you. Thank you for your patience.",
+    "createdAt": "2026-03-31T17:20:35.388Z",
+    "updatedAt": "2026-03-31T17:20:35.388Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cc0263398fe00ab565fa69",
+    "user": "69cc0263398fe00ab565f903",
+    "subject": "Issue #6: Worker Dispute",
+    "message": "Hello support, I am facing a problem with my account. Please help me with issue number 6.",
+    "status": "open",
+    "adminReply": "",
+    "createdAt": "2026-03-31T17:20:35.389Z",
+    "updatedAt": "2026-03-31T17:20:35.389Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cc0263398fe00ab565fa6b",
+    "user": "69cc0263398fe00ab565f923",
+    "subject": "Issue #7: App Crash",
+    "message": "Hello support, I am facing a problem with my account. Please help me with issue number 7.",
+    "status": "in-progress",
+    "adminReply": "",
+    "createdAt": "2026-03-31T17:20:35.390Z",
+    "updatedAt": "2026-03-31T17:20:35.390Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cc0263398fe00ab565fa6d",
+    "user": "69cc0263398fe00ab565f907",
+    "subject": "Issue #8: Payment Error",
+    "message": "Hello support, I am facing a problem with my account. Please help me with issue number 8.",
+    "status": "resolved",
+    "adminReply": "We have fixed the issue for you. Thank you for your patience.",
+    "createdAt": "2026-03-31T17:20:35.391Z",
+    "updatedAt": "2026-03-31T17:20:35.391Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cc0263398fe00ab565fa6f",
+    "user": "69cc0263398fe00ab565f927",
+    "subject": "Issue #9: Login Issue",
+    "message": "Hello support, I am facing a problem with my account. Please help me with issue number 9.",
+    "status": "open",
+    "adminReply": "",
+    "createdAt": "2026-03-31T17:20:35.392Z",
+    "updatedAt": "2026-03-31T17:20:35.392Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cc0263398fe00ab565fa71",
+    "user": "69cc0263398fe00ab565f90b",
+    "subject": "Issue #10: Worker Dispute",
+    "message": "Hello support, I am facing a problem with my account. Please help me with issue number 10.",
+    "status": "in-progress",
+    "adminReply": "",
+    "createdAt": "2026-03-31T17:20:35.392Z",
+    "updatedAt": "2026-03-31T17:20:35.392Z",
+    "__v": 0
+  }
+]
